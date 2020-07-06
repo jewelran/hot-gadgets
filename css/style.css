@@ -1,0 +1,9 @@
+.full_container{
+    width: 1180px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.nav_bg{
+    background: white !important;
+}
