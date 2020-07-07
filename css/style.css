@@ -9,7 +9,9 @@
     background: white !important;
 }
 .row{
-    padding:50px;
+    padding: 50px;
+    padding-top: 0px;
+    margin-top: -1rem;
 }
 .row h1{
     font-size: 25px;
